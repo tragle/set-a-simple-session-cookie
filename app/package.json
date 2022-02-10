@@ -1,0 +1,24 @@
+{
+  "name": "setting-a-simple-session-cookie",
+  "version": "1.0.0",
+  "description": "Setting a simple session cookie",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tragle/setting-a-simple-session-cookie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tragle/setting-a-simple-session-cookie/issues"
+  },
+  "homepage": "https://github.com/tragle/setting-a-simple-session-cookie#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.2"
+  }
+}
