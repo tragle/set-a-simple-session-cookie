@@ -1,4 +1,4 @@
-# Set a simple session cookie
+# Setting a simple session cookie
 
 This repo contains a reference app which demonstrates a simple but common use case: using cookies to tie requests together into a single session. 
 
